@@ -1,0 +1,6 @@
+{
+    "dart.flutterSdkPath": "/home/houda/Desktop/TP_S2/Mobile/flutter",
+    "emulator.emulatorPath": "/home/houda/Android/Sdk",
+    "emulator.emulatorPathLinux": "/home/houda/Android/Sdk",
+    "emulator.androidColdBoot": true
+}
